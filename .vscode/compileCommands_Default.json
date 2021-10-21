@@ -1,0 +1,57 @@
+[
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/BullCowCartridge.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/BullCowCartridge.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/BullCowGame.Build.cs",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/BullCowGame.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/BullCowGame.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/BullCowGameGameModeBase.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/BullCowGameGameModeBase.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/Console/Cartridge.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/Console/Cartridge.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/Console/Terminal.cpp",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	},
+	{
+		"file": "/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/Source/BullCowGame/Console/Terminal.h",
+		"command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ @\"/Users/aarongrincewicz/Dropbox/Unreal Projects/BullCowGame-starter-kit 4.27/.vscode/compileCommands_Default/BullCowGame.191.rsp\"",
+		"directory": "/Users/Shared/Epic Games/UE_4.27/Engine/Source"
+	}
+]
